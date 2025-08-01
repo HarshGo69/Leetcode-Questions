@@ -1,2 +1,2 @@
 # Leetcode-Questions
-Solutions of Leetcode questions that i have done.
+All the solutions of Leetcode questions that i have done.
